@@ -1,2 +1,2 @@
 # Kattis
-Kattis challenges in golang
+Kattis challenges for golang practice
